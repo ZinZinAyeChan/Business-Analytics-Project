@@ -18,7 +18,7 @@ The dashboards were designed around the decision-making needs of three user arch
 |---|---|---|
 | Farida | BA Graduate & Impact100 Enthusiast | Exploring global Impact100 chapters and projects |
 | Lee | CSR Manager | Discovering organisations seeking funding via ACF |
-| *(Group-defined)* | MQ University Stakeholder | Identifying engagement opportunities for students & researchers |
+| Anisha | Final-Year MQ University Student | Identifying volunteering & engagement opportunities for MQ students |
 
 Each persona drives a dedicated set of non-trivial data exploration questions answered visually within the application.
 
@@ -47,13 +47,15 @@ Each persona drives a dedicated set of non-trivial data exploration questions an
 
 ```
 /data
-  └── impact100_dataset.xlsx     # Ethically harvested dataset (50+ organisations)
+  └── impact100_dataset.xlsx       # Ethically harvested dataset (50+ organisations)
 /dashboards
-  └── impact100_tableau.twbx     # Tableau workbook with all persona dashboards
+  └── persona1.twbx                # Tableau dashboard — Farida (Impact100 chapters & projects)
+  └── persona2.twbx                # Tableau dashboard — Lee (ACF funding organisations)
+  └── persona3.twbx                # Tableau dashboard — MQ University stakeholder
 /report
-  └── BUSA3021_Group_Report.pdf  # Full written report
+  └── BUSA3021_Group_Report.pdf    # Full written report
 /presentation
-  └── BUSA3021_Presentation.pptx # Client presentation (Week 13)
+  └── BUSA3021_Presentation.pptx  # Client presentation (Week 13)
 ```
 
 ---
