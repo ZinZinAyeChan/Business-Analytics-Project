@@ -47,15 +47,15 @@ Each persona drives a dedicated set of non-trivial data exploration questions an
 
 ```
 /data
-  └── impact100_dataset.xlsx       # Ethically harvested dataset (50+ organisations)
+  └── BUSA3021_Group8_dataset.xlsx       # Ethically harvested dataset (50+ organisations)
 /dashboards
-  └── persona1.twbx                # Tableau dashboard — Farida (Impact100 chapters & projects)
-  └── persona2.twbx                # Tableau dashboard — Lee (ACF funding organisations)
-  └── persona3.twbx                # Tableau dashboard — MQ University stakeholder
+  └── Persona1.twbx                # Tableau dashboard — Farida (Impact100 chapters & projects)
+  └── Persona2.twbx                # Tableau dashboard — Lee (ACF funding organisations)
+  └── Persona3.twbx                # Tableau dashboard — MQ University stakeholder
 /report
-  └── BUSA3021_Group_Report.pdf    # Full written report
+  └── BUSA3021_Group8_Report.pdf    # Full written report
 /presentation
-  └── BUSA3021_Presentation.pptx  # Client presentation (Week 13)
+  └── BUSA3021_Group8_Presentation.pptx  # Client presentation (Week 13)
 ```
 
 ---
