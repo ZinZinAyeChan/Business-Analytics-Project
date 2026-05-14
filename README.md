@@ -49,9 +49,9 @@ Each persona drives a dedicated set of non-trivial data exploration questions an
 /data
   └── BUSA3021_Group8_dataset.xlsx       # Ethically harvested dataset (50+ organisations)
 /dashboards
-  └── Persona1.twbx                # Tableau dashboard — Farida (Impact100 chapters & projects)
-  └── Persona2.twbx                # Tableau dashboard — Lee (ACF funding organisations)
-  └── Persona3.twbx                # Tableau dashboard — MQ University stakeholder
+  └── Persona_1.twbx                # Tableau dashboard — Farida (Impact100 chapters & projects)
+  └── Persona_2.twbx                # Tableau dashboard — Lee (ACF funding organisations)
+  └── Persona_3.twbx                # Tableau dashboard — MQ University stakeholder
 /report
   └── BUSA3021_Group8_Report.pdf    # Full written report
 /presentation
